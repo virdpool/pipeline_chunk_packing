@@ -1,0 +1,16 @@
+{
+  "name": "randomx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install": "node-gyp configure build",
+    "install-verbose": "node-gyp configure build --verbose"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "node-gyp": "^7.0.0"
+  }
+}

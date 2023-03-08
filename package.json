@@ -1,0 +1,21 @@
+{
+  "name": "pipeline_chunk_packing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build_napi": "./s1_linux_build.coffee --verbose"
+  },
+  "keywords": [],
+  "author": "vird",
+  "license": "MIT",
+  "dependencies": {
+    "fy": "github:hu2prod/fy",
+    "lock_mixin": "github:hu2prod/lock_mixin",
+    "minimist": "^1.2.6",
+    "dotenv-flow": "^3.2.0",
+    "colors": "^1.4.0",
+    "prettyjson": "^1.2.5"
+  },
+  "devDependencies": {}
+}

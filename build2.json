@@ -1,0 +1,9 @@
+{
+  "ent_list": [
+    {
+      "name": "napi",
+      "payload": "npm run build_napi",
+      "dependency_list": []
+    }
+  ]
+}
